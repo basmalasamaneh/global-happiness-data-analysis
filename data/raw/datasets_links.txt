@@ -1,0 +1,13 @@
+DATASET LINKS AND DOWNLOAD INSTRUCTIONS
+========================================
+
+DATASET 1 — World Happiness Report (2015–2019)
+Method: MANUAL DOWNLOAD
+URL: https://www.kaggle.com/datasets/unsdsn/world-happiness
+Files included: 2015.csv, 2016.csv, 2017.csv, 2018.csv, 2019.csv
+
+DATASET 2 — World Population by Countries (World Bank, SP.POP.TOTL)
+Method: PROGRAMMATIC DOWNLOAD (auto-handled by the notebook)
+URL: https://data.worldbank.org/indicator/SP.POP.TOTL
+API: https://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv
+File included: raw_data_population.csv

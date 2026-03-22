@@ -1,0 +1,431 @@
+Country,Country_WB,Year,Happiness_Score,GDP_per_Capita
+Switzerland,Switzerland,2015,7.587,1.39651
+Iceland,Iceland,2015,7.561,1.30232
+Denmark,Denmark,2015,7.527,1.32548
+Norway,Norway,2015,7.522,1.459
+Canada,Canada,2015,7.427,1.32629
+Finland,Finland,2015,7.406,1.29025
+Netherlands,Netherlands,2015,7.378,1.32944
+Sweden,Sweden,2015,7.364,1.33171
+New Zealand,New Zealand,2015,7.286,1.25018
+Australia,Australia,2015,7.284,1.33358
+Israel,Israel,2015,7.278,1.22857
+Costa Rica,Costa Rica,2015,7.226,0.95578
+Austria,Austria,2015,7.2,1.33723
+Mexico,Mexico,2015,7.187,1.02054
+United States,United States,2015,7.119,1.39451
+Brazil,Brazil,2015,6.983,0.98124
+Luxembourg,Luxembourg,2015,6.946,1.56391
+Ireland,Ireland,2015,6.94,1.33596
+Belgium,Belgium,2015,6.937,1.30782
+United Arab Emirates,United Arab Emirates,2015,6.901,1.42727
+United Kingdom,United Kingdom,2015,6.867,1.26637
+Oman,Oman,2015,6.853,1.36011
+Venezuela,"Venezuela, RB",2015,6.81,1.04424
+Singapore,Singapore,2015,6.798,1.52186
+Panama,Panama,2015,6.786,1.06353
+Germany,Germany,2015,6.75,1.32792
+Chile,Chile,2015,6.67,1.10715
+Qatar,Qatar,2015,6.611,1.69042
+France,France,2015,6.575,1.27778
+Argentina,Argentina,2015,6.574,1.05351
+Czech Republic,Czechia,2015,6.505,1.17898
+Uruguay,Uruguay,2015,6.485,1.06166
+Colombia,Colombia,2015,6.477,0.91861
+Thailand,Thailand,2015,6.455,0.9669
+Saudi Arabia,Saudi Arabia,2015,6.411,1.39541
+Spain,Spain,2015,6.329,1.23011
+Malta,Malta,2015,6.302,1.20228
+Taiwan,Taiwan,2015,6.298,1.29098
+Kuwait,Kuwait,2015,6.295,1.55422
+Suriname,Suriname,2015,6.269,1.04556
+Trinidad and Tobago,Trinidad and Tobago,2015,6.168,1.21183
+El Salvador,El Salvador,2015,6.13,0.75066
+Guatemala,Guatemala,2015,6.123,0.74301
+Uzbekistan,Uzbekistan,2015,6.003,0.63244
+Slovakia,Slovak Republic,2015,5.995,1.16891
+Ecuador,Ecuador,2015,5.975,0.86402
+Bahrain,Bahrain,2015,5.96,1.32886
+Bolivia,Bolivia,2015,5.89,0.65454
+Malaysia,Malaysia,2015,5.77,1.12486
+Poland,Poland,2015,5.791,1.12555
+South Korea,"Korea, Rep.",2015,5.984,1.24461
+Moldova,Moldova,2015,5.889,0.59448
+Lithuania,Lithuania,2015,5.833,1.14723
+Belarus,Belarus,2015,5.813,1.03192
+Russia,Russian Federation,2015,5.716,1.13764
+Hungary,Hungary,2015,5.693,1.12094
+Latvia,Latvia,2015,5.592,1.11312
+Serbia,Serbia,2015,5.551,0.94692
+Kazakhstan,Kazakhstan,2015,5.507,1.12254
+Romania,Romania,2015,5.5,1.04982
+Cyprus,Cyprus,2015,5.498,1.24684
+Kosovo,Kosovo,2015,5.488,0.80139
+Vietnam,Viet Nam,2015,5.36,0.63216
+Turkey,Turkey,2015,5.332,1.06098
+Kyrgyzstan,Kyrgyz Republic,2015,5.286,0.47428
+Nigeria,Nigeria,2015,5.268,0.65435
+Bhutan,Bhutan,2015,5.253,0.77042
+Azerbaijan,Azerbaijan,2015,5.212,1.02389
+Pakistan,Pakistan,2015,5.194,0.59543
+Jordan,Jordan,2015,5.192,0.90198
+Belarus,Belarus,2015,5.813,1.03192
+Morocco,Morocco,2015,5.013,0.73479
+Macedonia,North Macedonia,2015,4.989,0.91832
+Indonesia,Indonesia,2015,5.399,0.82827
+Laos,Lao PDR,2015,4.876,0.59676
+South Africa,South Africa,2015,4.642,0.92049
+China,China,2015,5.14,0.89012
+Algeria,Algeria,2015,5.605,1.05266
+Albania,Albania,2015,4.959,0.87867
+Lebanon,Lebanon,2015,4.839,1.02564
+Egypt,"Egypt, Arab Rep.",2015,4.194,0.8527
+India,India,2015,4.565,0.64499
+Senegal,Senegal,2015,4.681,0.36498
+Cameroon,Cameroon,2015,4.252,0.49049
+Ghana,Ghana,2015,4.633,0.57006
+Zimbabwe,Zimbabwe,2015,4.61,0.271
+Iraq,Iraq,2015,4.677,1.07745
+Philippines,Philippines,2015,5.073,0.70532
+Ethiopia,Ethiopia,2015,4.512,0.19073
+Bangladesh,Bangladesh,2015,4.694,0.39753
+Uganda,Uganda,2015,3.931,0.23501
+Zambia,Zambia,2015,4.291,0.47038
+Nepal,Nepal,2015,4.514,0.35997
+Kenya,Kenya,2015,4.419,0.36471
+Mozambique,Mozambique,2015,4.971,0.08308
+Myanmar,Myanmar,2015,4.307,0.27108
+Cambodia,Cambodia,2015,3.907,0.46038
+Tanzania,Tanzania,2015,3.781,0.28526
+Iran,"Iran, Islamic Rep.",2015,4.686,1.09249
+Niger,Niger,2015,3.845,0.0694
+Yemen,"Yemen, Rep.",2015,4.077,0.54649
+Haiti,Haiti,2015,4.518,0.26673
+Liberia,Liberia,2015,3.819,0.08727
+Tunisia,Tunisia,2015,5.029,0.93384
+Madagascar,Madagascar,2015,3.681,0.17461
+Burundi,Burundi,2015,2.905,0.0153
+Central African Republic,Central African Republic,2015,3.678,0.0
+Sudan,Sudan,2015,3.961,0.52107
+Togo,Togo,2015,3.186,0.20817
+Afghanistan,Afghanistan,2015,3.575,0.31982
+Rwanda,Rwanda,2015,3.465,0.22208
+Benin,Benin,2015,3.34,0.28665
+Syria,Syrian Arab Republic,2015,3.006,0.6632
+Malawi,Malawi,2015,3.667,0.01604
+Denmark,Denmark,2016,7.526,1.44178
+Switzerland,Switzerland,2016,7.509,1.52733
+Iceland,Iceland,2016,7.501,1.42666
+Norway,Norway,2016,7.498,1.57744
+Finland,Finland,2016,7.413,1.40598
+Canada,Canada,2016,7.404,1.44015
+Netherlands,Netherlands,2016,7.339,1.46468
+New Zealand,New Zealand,2016,7.334,1.36166
+Australia,Australia,2016,7.313,1.39451
+Sweden,Sweden,2016,7.291,1.3782
+Israel,Israel,2016,7.267,1.22857
+Austria,Austria,2016,7.119,1.33723
+United States,United States,2016,7.104,1.39451
+Costa Rica,Costa Rica,2016,7.087,0.95578
+Puerto Rico,Puerto Rico,2016,7.039,1.3598
+Germany,Germany,2016,6.994,1.32792
+Brazil,Brazil,2016,6.952,0.98124
+Belgium,Belgium,2016,6.929,1.30782
+Ireland,Ireland,2016,6.907,1.33596
+Luxembourg,Luxembourg,2016,6.871,1.56391
+Mexico,Mexico,2016,6.778,1.02054
+Singapore,Singapore,2016,6.739,1.52186
+Czech Republic,Czechia,2016,6.596,1.17898
+United Arab Emirates,United Arab Emirates,2016,6.573,1.42727
+Malta,Malta,2016,6.488,1.20228
+United Kingdom,United Kingdom,2016,6.725,1.26637
+Taiwan,Taiwan,2016,6.379,1.29098
+Chile,Chile,2016,6.705,1.10715
+Panama,Panama,2016,6.701,1.06353
+Argentina,Argentina,2016,6.65,1.05351
+Venezuela,"Venezuela, RB",2016,6.084,1.04424
+Spain,Spain,2016,6.361,1.23011
+Slovakia,Slovak Republic,2016,6.078,1.16891
+South Korea,"Korea, Rep.",2016,5.835,1.24461
+Uruguay,Uruguay,2016,6.545,1.06166
+Colombia,Colombia,2016,6.481,0.91861
+Thailand,Thailand,2016,6.474,0.9669
+Saudi Arabia,Saudi Arabia,2016,6.344,1.39541
+Poland,Poland,2016,5.835,1.12555
+Lithuania,Lithuania,2016,5.833,1.14723
+Ecuador,Ecuador,2016,5.981,0.86402
+Bahrain,Bahrain,2016,6.088,1.32886
+Bolivia,Bolivia,2016,5.822,0.65454
+Indonesia,Indonesia,2016,5.314,0.82827
+Turkmenistan,Turkmenistan,2016,5.658,0.95847
+Malaysia,Malaysia,2016,6.005,1.12486
+Latvia,Latvia,2016,5.56,1.11312
+Romania,Romania,2016,5.528,1.04982
+Hungary,Hungary,2016,5.145,1.12094
+Nicaragua,Nicaragua,2016,5.992,0.62524
+Russia,Russian Federation,2016,5.856,1.13764
+Vietnam,Viet Nam,2016,5.061,0.63216
+Philippines,Philippines,2016,5.073,0.70532
+Kazakhstan,Kazakhstan,2016,5.919,1.12254
+China,China,2016,5.245,0.89012
+Pakistan,Pakistan,2016,5.03,0.59543
+Nigeria,Nigeria,2016,4.875,0.65435
+Nepal,Nepal,2016,4.793,0.35997
+Bangladesh,Bangladesh,2016,4.643,0.39753
+India,India,2016,4.404,0.64499
+Myanmar,Myanmar,2016,4.395,0.27108
+Cambodia,Cambodia,2016,3.907,0.46038
+Ghana,Ghana,2016,4.633,0.57006
+Ivory Coast,Cote d'Ivoire,2016,4.87,0.64478
+Ethiopia,Ethiopia,2016,4.286,0.19073
+Kenya,Kenya,2016,4.356,0.36471
+Uganda,Uganda,2016,3.739,0.23501
+Tanzania,Tanzania,2016,3.666,0.28526
+Rwanda,Rwanda,2016,3.515,0.22208
+Burundi,Burundi,2016,2.905,0.0153
+Central African Republic,Central African Republic,2016,3.476,0.0
+Afghanistan,Afghanistan,2016,3.36,0.31982
+Togo,Togo,2016,3.303,0.20817
+Syria,Syrian Arab Republic,2016,3.069,0.6632
+Benin,Benin,2016,3.484,0.28665
+Norway,Norway,2017,7.537,1.616463
+Denmark,Denmark,2017,7.522,1.482383
+Iceland,Iceland,2017,7.504,1.480633
+Switzerland,Switzerland,2017,7.494,1.56498
+Finland,Finland,2017,7.469,1.443572
+Netherlands,Netherlands,2017,7.377,1.503945
+Canada,Canada,2017,7.316,1.479204
+New Zealand,New Zealand,2017,7.314,1.405706
+Australia,Australia,2017,7.284,1.484415
+Sweden,Sweden,2017,7.284,1.494387
+Israel,Israel,2017,7.213,1.244616
+Costa Rica,Costa Rica,2017,7.079,0.998528
+Austria,Austria,2017,7.006,1.396164
+United States,United States,2017,6.993,1.546492
+Ireland,Ireland,2017,6.977,1.454627
+Germany,Germany,2017,6.951,1.3889
+Belgium,Belgium,2017,6.891,1.363478
+Luxembourg,Luxembourg,2017,6.863,1.603904
+United Kingdom,United Kingdom,2017,6.714,1.343936
+Chile,Chile,2017,6.652,1.211903
+United Arab Emirates,United Arab Emirates,2017,6.648,1.46901
+Brazil,Brazil,2017,6.635,1.024451
+Czech Republic,Czechia,2017,6.609,1.244736
+Argentina,Argentina,2017,6.599,1.093191
+Mexico,Mexico,2017,6.578,1.042936
+Singapore,Singapore,2017,6.572,1.55277
+Malta,Malta,2017,6.527,1.274399
+Uruguay,Uruguay,2017,6.454,1.06894
+Colombia,Colombia,2017,6.357,0.942694
+Thailand,Thailand,2017,6.424,0.9853
+Slovakia,Slovak Republic,2017,6.198,1.221007
+South Korea,"Korea, Rep.",2017,5.838,1.246876
+Bolivia,Bolivia,2017,5.823,0.656
+Spain,Spain,2017,6.403,1.248088
+Hungary,Hungary,2017,5.324,1.145289
+Poland,Poland,2017,5.973,1.151205
+Russia,Russian Federation,2017,5.963,1.156994
+China,China,2017,5.273,0.910726
+Indonesia,Indonesia,2017,5.262,0.85531
+Vietnam,Viet Nam,2017,5.074,0.741016
+Malaysia,Malaysia,2017,5.864,1.121844
+Pakistan,Pakistan,2017,5.269,0.535524
+Nigeria,Nigeria,2017,5.074,0.680906
+India,India,2017,4.315,0.644995
+Bangladesh,Bangladesh,2017,4.608,0.397525
+Nepal,Nepal,2017,4.514,0.35997
+Kenya,Kenya,2017,4.553,0.36773
+Ghana,Ghana,2017,4.72,0.570057
+Ethiopia,Ethiopia,2017,4.46,0.190725
+Uganda,Uganda,2017,3.986,0.235006
+Myanmar,Myanmar,2017,4.545,0.275283
+Cambodia,Cambodia,2017,3.907,0.460378
+Tanzania,Tanzania,2017,3.349,0.285262
+Burundi,Burundi,2017,2.905,0.0153
+Central African Republic,Central African Republic,2017,3.678,0.0
+Rwanda,Rwanda,2017,3.471,0.332365
+Afghanistan,Afghanistan,2017,3.794,0.317267
+Syria,Syrian Arab Republic,2017,3.462,0.663243
+South Sudan,South Sudan,2017,3.591,0.397249
+Togo,Togo,2017,3.495,0.208174
+Benin,Benin,2017,3.657,0.286651
+Finland,Finland,2018,7.632,1.305
+Norway,Norway,2018,7.594,1.456
+Denmark,Denmark,2018,7.555,1.351
+Iceland,Iceland,2018,7.495,1.343
+Switzerland,Switzerland,2018,7.487,1.42
+Netherlands,Netherlands,2018,7.441,1.361
+Canada,Canada,2018,7.328,1.33
+New Zealand,New Zealand,2018,7.324,1.268
+Sweden,Sweden,2018,7.314,1.355
+Australia,Australia,2018,7.272,1.34
+Israel,Israel,2018,7.19,1.177
+Austria,Austria,2018,7.139,1.341
+Costa Rica,Costa Rica,2018,7.143,0.976
+Ireland,Ireland,2018,6.977,1.448
+Germany,Germany,2018,6.965,1.34
+Belgium,Belgium,2018,6.927,1.305
+Luxembourg,Luxembourg,2018,6.91,1.574
+United States,United States,2018,6.886,1.398
+United Kingdom,United Kingdom,2018,6.814,1.301
+United Arab Emirates,United Arab Emirates,2018,6.774,1.426
+Czech Republic,Czechia,2018,6.711,1.269
+Malta,Malta,2018,6.627,1.27
+France,France,2018,6.489,1.324
+Mexico,Mexico,2018,6.488,1.07
+Taiwan,Taiwan,2018,6.441,1.368
+Chile,Chile,2018,6.476,1.181
+Panama,Panama,2018,6.43,1.133
+Brazil,Brazil,2018,6.3,1.026
+Argentina,Argentina,2018,6.388,1.092
+Guatemala,Guatemala,2018,6.382,0.797
+Uruguay,Uruguay,2018,6.379,1.124
+Colombia,Colombia,2018,6.26,0.985
+Thailand,Thailand,2018,6.072,1.01
+Slovakia,Slovak Republic,2018,6.198,1.246
+El Salvador,El Salvador,2018,6.167,0.794
+Trinidad and Tobago,Trinidad and Tobago,2018,6.192,1.231
+Poland,Poland,2018,5.991,1.206
+Uzbekistan,Uzbekistan,2018,6.096,0.745
+South Korea,"Korea, Rep.",2018,5.875,1.265
+Nicaragua,Nicaragua,2018,6.105,0.694
+Ecuador,Ecuador,2018,5.891,0.913
+Kazakhstan,Kazakhstan,2018,5.931,1.168
+Bolivia,Bolivia,2018,5.779,0.686
+Russia,Russian Federation,2018,5.81,1.185
+Kosovo,Kosovo,2018,4.719,0.854
+Montenegro,Montenegro,2018,5.039,1.051
+Vietnam,Viet Nam,2018,5.175,0.741
+Malaysia,Malaysia,2018,5.339,1.221
+Belarus,Belarus,2018,5.579,1.127
+Turkey,Turkey,2018,5.483,1.183
+Indonesia,Indonesia,2018,5.093,0.931
+Bulgaria,Bulgaria,2018,4.933,1.092
+China,China,2018,5.246,1.063
+Pakistan,Pakistan,2018,5.472,0.617
+Philippines,Philippines,2018,5.44,0.769
+Morocco,Morocco,2018,5.187,0.778
+India,India,2018,4.19,0.755
+Georgia,Georgia,2018,4.519,0.905
+Armenia,Armenia,2018,4.376,0.85
+Nigeria,Nigeria,2018,5.155,0.696
+Nepal,Nepal,2018,4.88,0.446
+Ethiopia,Ethiopia,2018,4.35,0.338
+Ghana,Ghana,2018,4.656,0.611
+Kenya,Kenya,2018,4.509,0.476
+Cameroon,Cameroon,2018,4.252,0.547
+Uganda,Uganda,2018,3.819,0.281
+Mozambique,Mozambique,2018,3.9,0.109
+Tanzania,Tanzania,2018,3.303,0.321
+Senegal,Senegal,2018,4.681,0.391
+Bangladesh,Bangladesh,2018,4.5,0.471
+Cambodia,Cambodia,2018,4.433,0.574
+Zimbabwe,Zimbabwe,2018,3.692,0.295
+Myanmar,Myanmar,2018,4.308,0.357
+Liberia,Liberia,2018,3.975,0.114
+Mali,Mali,2018,4.19,0.287
+Haiti,Haiti,2018,3.582,0.301
+Zambia,Zambia,2018,3.759,0.578
+Malawi,Malawi,2018,3.41,0.181
+Niger,Niger,2018,4.166,0.131
+Chad,Chad,2018,3.936,0.43
+Yemen,"Yemen, Rep.",2018,3.355,0.564
+South Sudan,South Sudan,2018,3.254,0.397
+Central African Republic,Central African Republic,2018,3.083,0.026
+Rwanda,Rwanda,2018,3.408,0.359
+Burundi,Burundi,2018,2.905,0.06
+Afghanistan,Afghanistan,2018,3.203,0.35
+Togo,Togo,2018,3.999,0.286
+Syria,Syrian Arab Republic,2018,4.561,0.619
+Benin,Benin,2018,4.141,0.377
+Finland,Finland,2019,7.769,1.34
+Denmark,Denmark,2019,7.6,1.383
+Norway,Norway,2019,7.554,1.488
+Iceland,Iceland,2019,7.494,1.38
+Netherlands,Netherlands,2019,7.488,1.396
+Switzerland,Switzerland,2019,7.48,1.452
+Sweden,Sweden,2019,7.343,1.387
+New Zealand,New Zealand,2019,7.307,1.303
+Canada,Canada,2019,7.278,1.365
+Austria,Austria,2019,7.246,1.376
+Australia,Australia,2019,7.228,1.372
+Costa Rica,Costa Rica,2019,7.167,1.034
+Israel,Israel,2019,7.139,1.276
+Luxembourg,Luxembourg,2019,7.09,1.609
+United Kingdom,United Kingdom,2019,7.054,1.333
+Ireland,Ireland,2019,7.021,1.499
+Germany,Germany,2019,6.985,1.373
+Belgium,Belgium,2019,6.923,1.356
+United States,United States,2019,6.892,1.433
+Czech Republic,Czechia,2019,6.852,1.269
+United Arab Emirates,United Arab Emirates,2019,6.825,1.503
+Malta,Malta,2019,6.726,1.3
+Mexico,Mexico,2019,6.595,1.07
+France,France,2019,6.592,1.324
+Taiwan,Taiwan,2019,6.446,1.368
+Chile,Chile,2019,6.444,1.159
+Guatemala,Guatemala,2019,6.436,0.82
+Saudi Arabia,Saudi Arabia,2019,6.375,1.403
+Qatar,Qatar,2019,6.374,1.684
+Spain,Spain,2019,6.354,1.286
+Panama,Panama,2019,6.321,1.149
+Brazil,Brazil,2019,6.3,1.004
+Uruguay,Uruguay,2019,6.293,1.124
+Singapore,Singapore,2019,6.262,1.572
+El Salvador,El Salvador,2019,6.253,0.806
+Italy,Italy,2019,6.223,1.294
+Bahrain,Bahrain,2019,6.199,1.362
+Slovakia,Slovak Republic,2019,6.198,1.246
+Argentina,Argentina,2019,6.086,1.092
+Croatia,Croatia,2019,6.006,1.155
+Colombia,Colombia,2019,5.997,0.985
+Trinidad and Tobago,Trinidad and Tobago,2019,6.192,1.231
+Kosovo,Kosovo,2019,5.096,0.854
+Thailand,Thailand,2019,6.008,1.0
+Uruguay,Uruguay,2019,6.293,1.124
+Nicaragua,Nicaragua,2019,6.105,0.694
+Bolivia,Bolivia,2019,5.779,0.686
+Malaysia,Malaysia,2019,5.339,1.221
+Russia,Russian Federation,2019,5.648,1.183
+Kazakhstan,Kazakhstan,2019,5.809,1.168
+Vietnam,Viet Nam,2019,5.175,0.741
+Philippines,Philippines,2019,5.631,0.757
+Poland,Poland,2019,6.182,1.206
+South Korea,"Korea, Rep.",2019,5.895,1.265
+Indonesia,Indonesia,2019,5.192,0.931
+Uzbekistan,Uzbekistan,2019,6.174,0.745
+China,China,2019,5.191,1.029
+Morocco,Morocco,2019,5.208,0.836
+Pakistan,Pakistan,2019,5.653,0.617
+India,India,2019,4.015,0.755
+Turkey,Turkey,2019,5.373,1.15
+Georgia,Georgia,2019,4.286,0.969
+Armenia,Armenia,2019,4.559,0.85
+Nigeria,Nigeria,2019,5.265,0.696
+Nepal,Nepal,2019,4.913,0.446
+Bangladesh,Bangladesh,2019,4.456,0.471
+Ghana,Ghana,2019,4.996,0.611
+Kenya,Kenya,2019,4.509,0.512
+Ethiopia,Ethiopia,2019,4.286,0.338
+Uganda,Uganda,2019,4.166,0.281
+Cameroon,Cameroon,2019,4.252,0.547
+Mozambique,Mozambique,2019,4.466,0.204
+Myanmar,Myanmar,2019,4.308,0.413
+Cambodia,Cambodia,2019,4.7,0.574
+Zambia,Zambia,2019,4.107,0.578
+Senegal,Senegal,2019,4.219,0.391
+Malawi,Malawi,2019,3.41,0.181
+Mali,Mali,2019,3.748,0.287
+Zimbabwe,Zimbabwe,2019,3.663,0.295
+Yemen,"Yemen, Rep.",2019,3.38,0.287
+Syria,Syrian Arab Republic,2019,3.462,0.619
+Liberia,Liberia,2019,3.975,0.114
+Chad,Chad,2019,3.936,0.43
+Niger,Niger,2019,3.822,0.131
+Benin,Benin,2019,4.141,0.377
+Togo,Togo,2019,3.999,0.286
+Rwanda,Rwanda,2019,3.334,0.359
+Tanzania,Tanzania,2019,3.231,0.321
+Afghanistan,Afghanistan,2019,3.203,0.35
+Central African Republic,Central African Republic,2019,3.083,0.026
+South Sudan,South Sudan,2019,2.853,0.306
